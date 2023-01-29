@@ -69,12 +69,12 @@
 
 <details>
   <summary>⚡GitHub Stats</summary>
-  <img align="left" style="margin:5px 5px 5px 5px" alt="Sourjaya's GitHub Stats" src="https://github-readme-stats-sourjaya.vercel.app/api?username=sourjaya&show_icons=true&hide_border=true&theme=moltack" />
+  <img align="center" style="margin:5px 5px 5px 5px" alt="Sourjaya's GitHub Stats" src="https://github-readme-stats-sourjaya.vercel.app/api?username=sourjaya&show_icons=true&hide_border=true&theme=moltack" />
 </details>
 
 ---
 
 <details>
   <summary>⚡Language Stats</summary>
-  <img align="left" style="margin:5px 5px 5px 5px" alt="Sourjaya's Used Languages" src="https://github-readme-stats-sourjaya.vercel.app/api/top-langs/?username=sourjaya&layout=compact&theme=ayu-mirage)" />
+  <img align="center" style="margin:5px 5px 5px 5px" alt="Sourjaya's Used Languages" src="https://github-readme-stats-sourjaya.vercel.app/api/top-langs/?username=sourjaya&layout=compact&theme=ayu-mirage)" />
 </details>
