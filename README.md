@@ -17,14 +17,14 @@
 ---
 ### Find me around the WWW🌎:
 
-[![twitter_light](./img/twitter_light.png)](https://twitter.com/sourjaya_das#gh-dark-mode-only)
-[![twitter_dark](./img/twitter_dark.png)](https://twitter.com/sourjaya_das#gh-light-mode-only)
+[![twitter_light](./img/twitter_light.png)](https://external.ink?to=/twitter.com/sourjaya_das#gh-dark-mode-only)
+[![twitter_dark](./img/twitter_dark.png)](https://external.ink?to=/twitter.com/sourjaya_das#gh-light-mode-only)
 &nbsp;&nbsp;
-[![linkedin_light](./img/linkedin_light.png)](https://www.linkedin.com/in/sourjaya-das#gh-dark-mode-only)
-[![linkedin_dark](./img/linkedin_dark.png)](https://www.linkedin.com/in/sourjaya-das#gh-light-mode-only)
+[![linkedin_light](./img/linkedin_light.png)](https://external.ink?to=/www.linkedin.com/in/sourjaya-das#gh-dark-mode-only)
+[![linkedin_dark](./img/linkedin_dark.png)](https://external.ink?to=/www.linkedin.com/in/sourjaya-das#gh-light-mode-only)
 &nbsp;&nbsp;
-[![facebook_light](./img/facebook_light.png)](https://www.facebook.com/sourjaya.das#gh-dark-mode-only)
-[![facebook_dark](./img/facebook_dark.png)](https://www.facebook.com/sourjaya.das#gh-light-mode-only)
+[![facebook_light](./img/facebook_light.png)](https://external.ink?to=/www.facebook.com/sourjaya.das#gh-dark-mode-only)
+[![facebook_dark](./img/facebook_dark.png)](https://external.ink?to=/www.facebook.com/sourjaya.das#gh-light-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools 🛠️:
