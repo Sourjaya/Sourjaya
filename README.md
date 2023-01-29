@@ -49,3 +49,18 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<details>
+  <summary>⚡GitHub Stats</summary>
+  <img align="left" style="margin:5px 5px 5px 5px" alt="Sourjaya's GitHub Stats" src="https://github-readme-stats-sourjaya.vercel.app/api?username=sourjaya&show_icons=true&hide_border=true&theme=moltack" />
+  
+  [<img align="left" style="margin:5px 5px 5px 5px" alt="Sourjaya's Used Languages" src="https://github-readme-stats-sourjaya.vercel.app/api/top-langs/?username=sourjaya&layout=compact&theme=ayu-mirage)" />](https://github.com/sourjaya/github-readme-stats)
+
+</details>
+
+<details>
+    <summary>⚡Recent Github Activity</summary>
+    <!--START_SECTION:activity-->
+</details>
