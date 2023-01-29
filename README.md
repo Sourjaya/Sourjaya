@@ -51,8 +51,9 @@
 ### 📕 Latest Blog Posts
 ```python
     from blogsite import feed
-    posts=feed.posts
-    return posts
+    def get_posts():
+      posts=feed.posts
+      return posts
 ```
 ```json
     {
