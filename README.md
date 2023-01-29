@@ -10,7 +10,7 @@
 
 ---
 ## I'm a **Student** , **Developer** and a Gamer ! ! !
----
+
 - 📋 I'm currently building an **REST-API** for a **Youtube Web Extension** .
 - 🌱 I’m currently learning about **System Design** and **DevOps Fundamentals** .
 - 👯 I’m looking to collaborate and be active in developer communities .
