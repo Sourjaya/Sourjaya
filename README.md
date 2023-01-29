@@ -45,6 +45,9 @@
 
 ---
 
+[![Spotify](https://novatorem-sourjaya.vercel.app/api/spotify)](https://open.spotify.com/user/316nmxoej2daairm6crj6l755kvq)
+
+---
 ### 📕 Latest Blog Posts
 ```python
     from blogsite import feed
