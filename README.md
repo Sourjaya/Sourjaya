@@ -39,3 +39,13 @@
 <img align="left" alt="Postgre" width="26px" src="./img/postgre.png" style="margin:1px 1px 5px 5px" />
 <img align="left" alt="Python" width="26px" src="./img/python.png" style="margin:1px 1px 5px 5px"/>
 <img align="left" alt="C" width="26px" src="./img/c.png" style="margin:1px 1px 5px 5px"/>
+
+<br/>
+<br/>
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
