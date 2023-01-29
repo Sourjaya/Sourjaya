@@ -17,7 +17,7 @@
 ---
 ### Connect with me:
 
-<a href="https://twitter.com/sourjaya_das"><img src="./img/twitter_dark.png#gh-dark-mode-only" alt="twitter_dark" width="30" height="30">
-<a href="https://twitter.com/sourjaya_das#gh-light-mode-only"><img src="./img/twitter_light.png" alt="twitter_light" width="30" height="30">
+<a href="https://twitter.com/sourjaya_das"><img src="./img/twitter_dark.png#gh-light-mode-only" alt="twitter_dark" width="30" height="30">
+<a href="https://twitter.com/sourjaya_das#gh-dark-mode-only"><img src="./img/twitter_light.png" alt="twitter_light" width="30" height="30">
 &nbsp;&nbsp;
 
