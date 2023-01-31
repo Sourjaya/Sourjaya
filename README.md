@@ -44,10 +44,6 @@
 <br/>
 
 ---
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
 ### 📕 Latest Blog Posts
 ```python
     from blogsite import feed
