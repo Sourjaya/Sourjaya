@@ -49,6 +49,7 @@
 ### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build and Deploy: With AWS &lpar;Lambda, API Gateway and DynamoDB&rpar; using Golang](https://dev.to/sourjaya/build-and-deploy-rest-api-with-aws-lambda-api-gateway-and-dynamodb-using-golang-58ap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
