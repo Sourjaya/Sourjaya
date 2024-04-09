@@ -49,6 +49,7 @@
 ### :writing_hand: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a CLI tool : Generating hex dumps with Golang](https://dev.to/sourjaya/build-a-cli-tool-generating-hex-dumps-with-golang-4pa)
 - [FullScreen API: Explained in 256 characters](https://dev.to/sourjaya/fullscreen-api-explained-in-256-characters-3fp2)
 - [Build and Deploy: With AWS &lpar;Lambda, API Gateway and DynamoDB&rpar; using Golang](https://dev.to/sourjaya/build-and-deploy-rest-api-with-aws-lambda-api-gateway-and-dynamodb-using-golang-58ap)
 <!-- BLOG-POST-LIST:END -->
