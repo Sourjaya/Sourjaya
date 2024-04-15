@@ -8,7 +8,7 @@
 ---
 ## :man_technologist: About Me ! ! !
 - 📋 I'm am looking to become a developer and solving real world problems.
-- 🌱 I’m currently learning **GO**, **React.js**, **System Design**, **DevOps Fundamentals** and how to build **LLMs** .
+- 🌱 I’m currently learning **GO**, **System Design**, **DevOps Fundamentals** and how to build **LLMs** .
 - 👯 I’m looking to collaborate and be active in developer communities .
 - 🥅 2024 Goals: Dive into the World of **Open Source** and get ***employed*** 👨‍💼 .
 - ⚡ I wish to be a football ⚽ coach someday . 
